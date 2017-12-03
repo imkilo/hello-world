@@ -1,0 +1,15 @@
+I'm proposing a project to aid in learning, and create a program that will be useful for controlling the info-motion switchers
+
+Aren't the info-motion switchers already controlled?
+Yes, but I want a test program that I can run from the computer to tell it "switch to input 2" and see if it switches to input 2, so that I know that everything outside of the PC headed toward the switcher is working correctly.
+
+
+
+
+
+a code project to read and send serial port info
+https://www.codeproject.com/articles/18797/application-to-debug-serial-port-communication
+
+a github project using c++
+https://github.com/fedetft/serial-port 
+
