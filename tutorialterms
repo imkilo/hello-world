@@ -1,0 +1,40 @@
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
+windows.github.com
+5 github command line commands
+clone url is that copy/pastable url where you can download your own copy
+
+to copy a current project to your pc:
+git clone <url>
+
+to find out if there is a difference
+git status
+
+to push a file up to the server
+git add <filename>
+git add -a (this will push up everything in the directory)
+
+to "save" all the pushes you made and describe them
+git commit -m "I added index.html"
+
+send all your files to github.com (this is a per directory)
+git push
+
+get all your files from github.com  (this is a per directory)
+git pull
+
+so at the beginning of the day, do a 
+git pull
+make your changes and do 
+git add -a
+git commit -m "describe the incremental change made"
+
+handling merge conflicts
+after a git pull you get a merge conflict error
+then delete the "HEAD" and =====
+then git add -a
+then git commit
+then git push
+
+a screen you can't escape from?
+press Esc then :wq
