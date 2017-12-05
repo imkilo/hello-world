@@ -13,3 +13,11 @@ https://www.codeproject.com/articles/18797/application-to-debug-serial-port-comm
 a github project using c++
 https://github.com/fedetft/serial-port 
 
+
+
+https://www.codeproject.com/Articles/75770/Basic-serial-port-listening-application
+
+https://sourceforge.net/projects/readwriteserial/
+
+
+
