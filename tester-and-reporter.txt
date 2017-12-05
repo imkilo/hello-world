@@ -1,0 +1,4 @@
+https://os.mbed.com/
+https://marketplace.att.com/products/att-iot-starter-kit
+server room health monitor
+wifi network monitor
