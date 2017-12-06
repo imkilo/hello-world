@@ -1,7 +1,7 @@
 https://www.youtube.com/watch?v=0fKg7e37bQE
 
-windows.github.com
-5 github command line commands
+repository = a single project, containing folders, files, images, videos, spreadsheets, and data sets, readme
+
 clone url is that copy/pastable url where you can download your own copy
 
 to copy a current project to your pc:
@@ -38,3 +38,7 @@ then git push
 
 a screen you can't escape from?
 press Esc then :wq
+
+https://guides.github.com/activities/hello-world/ - walk through of making a new repository
+
+windows.github.com - application to install to your PC to download source code files, kinda like dropbox for source code
